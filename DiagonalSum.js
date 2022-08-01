@@ -19,4 +19,3 @@ for (let i = 0; i < Arr.length; i++) {
 
 const result = Math.abs(sum1 - sum2);
 console.log(result);
-console.log(Arr.length);
